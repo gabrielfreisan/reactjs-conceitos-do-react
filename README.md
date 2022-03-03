@@ -18,7 +18,7 @@
 3 - Deletar tarefa
 </br>
 
-## Cline Repo
+## Clone Repo
 
 1 -- git clone https://github.com/gabrielfreisan/reactjs-conceitos-do-react.git
 </br>
