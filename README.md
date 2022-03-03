@@ -12,16 +12,22 @@
 ## Índice
 
 1 - Adicionar tarefa
+</br>
 2 - Concluir tarefa
+</br>
 3 - Deletar tarefa
+</br>
 
 ## Cline Repo
 
 1 -- git clone https://github.com/gabrielfreisan/reactjs-conceitos-do-react.git
 </br>
 2 -- cd reactjs-conceitos-do-react
+</br>
 3 -- yarn
+</br>
 4 -- yarn dev
+</br>
 5 -- acessar a aplicação no endereço localhost:8080
 
 ## :memo: Licença
